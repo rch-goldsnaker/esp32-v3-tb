@@ -20,4 +20,9 @@
 // ===========================================
 #define TB_TOKEN "YOUR_THINGSBOARD_TOKEN"
 
+// ===========================================
+// ThingsBoard Server Configuration
+// ===========================================
+#define TB_SERVER "YOUR_THINGSBOARD_SERVER_IP"
+
 #endif // CREDENTIALS_H

@@ -25,7 +25,7 @@ constexpr char wifiPassword[] = WIFI_PASSWORD;
 constexpr char token[] = TB_TOKEN;
 
 // Thingsboard server configuration
-constexpr char THINGSBOARD_SERVER[] = "192.168.1.83";
+constexpr char THINGSBOARD_SERVER[] = TB_SERVER;
 constexpr uint16_t THINGSBOARD_PORT = 1883U;
 
 // Maximum size packets will ever be sent or received by the underlying MQTT client,
